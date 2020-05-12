@@ -22,10 +22,10 @@ choco install php
 Open a terminal on the folder where is the code and type:
 
 ```bash
-php fooname.php
+php bank.php
 ```
 
-where fooname, is the archive you want to see working on terminal.
+With you want to test another features of the simple bank, modify the bank file and run the bash again.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
