@@ -22,6 +22,6 @@ $thirdHolder->withdraw(300);
 echo $thirdHolder->getHolder()->getSsn()->getNumber().' - '.$thirdHolder->getHolder()->getName().' your balance is: $'.$thirdHolder->getBalance().PHP_EOL;
 
 echo 'Total accounts:'.Account::getAccountCount().PHP_EOL;
-echo 'Wilson is no more a Holder on Simple Bank.'.PHP_EOL;
+echo 'Wilson is\'nt Holder on Simple Bank anymore.'.PHP_EOL;
 unset($thirdHolder);
 echo 'Total accounts:'.Account::getAccountCount().PHP_EOL;
