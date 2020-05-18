@@ -28,7 +28,7 @@ php bank.php
 or
 
 ```bash
-php employee.php
+php employees.php
 ```
 
 With you want to test another features of the simple bank, modify the bank file and run the bash again.
