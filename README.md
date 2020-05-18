@@ -25,6 +25,12 @@ Open a terminal on the folder where is the code and type:
 php bank.php
 ```
 
+or
+
+```bash
+php employee.php
+```
+
 With you want to test another features of the simple bank, modify the bank file and run the bash again.
 
 ## License
