@@ -1,7 +1,7 @@
 <?php
+namespace GabsDSousa\Bank\Model;
 
-
-class SSN
+final class SSN
 {
     private string $number;
 
