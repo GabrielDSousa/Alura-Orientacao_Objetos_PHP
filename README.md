@@ -12,8 +12,8 @@ In this trainning I'm learning:
 
 ## Installation
 
-Use the package manager [Chocolatey](https://chocolatey.org/) to install php.
-
+Use the package manager to install php.
+On Windows I'm using [Chocolatey](https://chocolatey.org/)
 ```bash
 choco install php
 ```
